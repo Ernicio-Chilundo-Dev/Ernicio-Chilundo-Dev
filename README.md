@@ -14,10 +14,11 @@
 </p>
 
 <div align="center">  
-  <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ernicio-jermias-chilundo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=258870568953" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%231ED760?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://discord.com/invite/seu-link" target="_blank"><img src="https://img.shields.io/badge/-Discord-%233865A3?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150" height="30"></a>
+  <a href="https://www.linkedin.com/in/ernicio-jermias-chilundo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="30"></a>
+  <a href="https://api.whatsapp.com/send?phone=258870568953" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%231ED760?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" height="30"></a>
+  <a href="https://discord.com/invite/seu-link" target="_blank"><img src="https://img.shields.io/badge/-Discord-%233865A3?style=for-the-badge&logo=discord&logoColor=white" width="150" height="30"></a>
+  <a href="mailto:ernicio.j.chilundo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="150" height="30"></a>
 </div> 
 
 ### Main skills:
