@@ -16,7 +16,7 @@
 <div align="center">  
   <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=+258870568953" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%231ED760?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=258870568953" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%231ED760?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://discord.com/invite/seu-link" target="_blank"><img src="https://img.shields.io/badge/-Discord-%233865A3?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div> 
 
