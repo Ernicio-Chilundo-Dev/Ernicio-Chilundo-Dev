@@ -2,7 +2,7 @@
 # 👋 Hello, I'm Ernicio Chilundo!  
 
 <p align="center">
-  <img src="./banner.png" alt="Ernicio Chilundo Banner" width="700"/>
+  <img src="./banner.png" alt="Ernicio Chilundo Banner" width="600"/>
 </p>
 
 🎓 CS50x Student | 💻 Developer in the Making | 🌍 From Mozambique to the World  
@@ -50,7 +50,7 @@ I'm committed to mastering these to build solid, real-world projects.
 ---
 
 ### 🌍 My Mission  
-> _"From Maputo to the world, one commit at a time."_  
+> _"From Inhambane to the world, one commit at a time."_  
 
 My goal is to:  
 - Create tools people will use  
