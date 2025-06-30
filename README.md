@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Ernicio Chilundo!
 
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 🎓 CS50x Student | 💻 Developer in the Making | 🌍 From Mozambique to the World
 
 ---
@@ -58,11 +60,26 @@ My goal is to:
 
 ---
 
+### 📂 Projects in Progress
+
+| Project         | Description                              | Status    | Link                                   |
+|-----------------|------------------------------------------|-----------|----------------------------------------|
+| CryptoSafe      | Secure crypto wallet                     | In progress | [GitHub Repo](https://github.com/Ernicio-Chilundo-Dev/CryptoSafe) |
+| Room of Despair | Interactive quiz game                    | In progress | [GitHub Repo](https://github.com/Ernicio-Chilundo-Dev/Room-of-Despair) |
+| CS50x Problem Sets | Solutions for CS50 assignments         | Ongoing   | [GitHub Repo](https://github.com/Ernicio-Chilundo-Dev/cs50x-psets) |
+
+---
+
 ### 📫 Let's Connect
 
 - 🌐 GitHub: [Ernicio-Chilundo-Dev](https://github.com/Ernicio-Chilundo-Dev)  
-- 💼 LinkedIn: [linkedin.com/in/ernicio-jermias-chilundo](https://www.linkedin.com/in/ernicio-jermias-chilundo)  
-- 🧠 Projects in progress: `CryptoSafe`, `Room of Despair`, CS50x psets
+- 💼 LinkedIn: [linkedin.com/in/ernicio-jermias-chilundo](https://www.linkedin.com/in/ernicio-jermias-chilundo)
+
+---
+
+### 🌟 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/Ernicio-Chilundo-Dev/count.svg)
 
 ---
 
