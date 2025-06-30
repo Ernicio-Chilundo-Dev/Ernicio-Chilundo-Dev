@@ -2,7 +2,7 @@
 # 👋 Hello, I'm Ernicio Chilundo!  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Happy Friday Cat" style="max-width: 300px; width: 100%; height: auto;"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Happy Friday Cat" style="max-width: 100%; height: auto;"/>
 </p>
 
 🎓 CS50x Student | 💻 Developer in the Making | 🌍 From Mozambique to the World  
