@@ -1,7 +1,4 @@
-from pathlib import Path
 
-# Conteúdo do README.md
-readme_content = """
 # 👋 Hello, I'm Ernicio Chilundo!  
 
 ![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
@@ -89,10 +86,3 @@ My goal is to:
 ---
 
 > _"Learn today. Inspire tomorrow. Code forever."_  
-"""
-
-# Caminho para salvar o arquivo
-output_path = Path("/mnt/data/README.md")
-output_path.write_text(readme_content)
-
-output_path.name
