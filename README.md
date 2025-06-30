@@ -1,7 +1,9 @@
 
 # 👋 Hello, I'm Ernicio Chilundo!  
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Happy Friday Cat" width="600"/>
+</p>
 
 🎓 CS50x Student | 💻 Developer in the Making | 🌍 From Mozambique to the World  
 
