@@ -8,11 +8,6 @@
 🎓 CS50x Student | 💻 Developer in the Making | 🌍 From Mozambique to the World  
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Happy Friday Cat" width="600"/>
-</p>
-
----
 
 ### 🧠 About Me  
 I'm passionate about building software that solves real problems, inspires others, and leaves a meaningful trace in the world.  
